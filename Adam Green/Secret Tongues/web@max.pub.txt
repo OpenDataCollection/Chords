@@ -1,7 +1,7 @@
 
-Intro:
 
-C     F x 2
+C   F   F
+-----------
 
 C                            F
 there are men in shades just standing around
@@ -21,8 +21,10 @@ and you were just a little guy
                   G
 and i was little too
 
-C F x 2
-C F G
+C   F   F
+-----------
+C   F   G
+-----------
 
 C                      F
 and everything is just floating freely just 

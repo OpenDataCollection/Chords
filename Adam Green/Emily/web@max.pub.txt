@@ -20,7 +20,7 @@ G
 Emily, sweet baby, won't you be my wife
 D
 Cutting me wide open with a kitchen knife
-A7
+A7       
 Everybody said that she is underage
 E
 Honky tried to shoot me with a 7 gage
@@ -47,7 +47,7 @@ G
 Eleanor, I wonder if we move too slow
 D
 Straight down the hatch beneath the streetlight's glow
-A7
+A7        
 Baby when I get you on that persian rug
 E
 That's the kind of movies I've been dreaming of
@@ -60,7 +60,6 @@ D                          G
 Some of the fellas like to think I'm Greek
 D       A              D
 I wanna love you maybe three days a week
-
 
 D                           G
 I just don't care about the evening news
